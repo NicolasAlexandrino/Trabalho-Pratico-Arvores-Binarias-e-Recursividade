@@ -130,7 +130,8 @@ Pós-Ordem: 1 4 7 6 3 13 14 10 8
 
 ===== TESTE DE BUSCA =====
 Buscar 7: true
-Buscar 2: false
+Buscar 8: true
+Buscar 15: false
 ```
 
 ---
